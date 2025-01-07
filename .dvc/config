@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 ['remote "origin"']
     url = s3://dvc
     endpointurl = https://dagshub.com/glory.chicate/mlflow_mvc.s3
+=======
+
+>>>>>>> 38b6de709657c993facd684c92b760075c82f169
