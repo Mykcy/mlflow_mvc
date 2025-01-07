@@ -109,5 +109,4 @@ if __name__ == "__main__":
     # Save the model with DVC 
     import joblib 
     joblib.dump(clf, "model.pkl") 
-    !dvc add model.pkl 
-    !dvc push
+   
